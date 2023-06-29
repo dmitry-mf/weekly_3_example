@@ -1,0 +1,7 @@
+{
+    "collectCoverageFrom": [
+        "**/*.ts",
+        "!**/node_modules/**"
+    ],
+    "testEnvironment": "jsdom"
+}
